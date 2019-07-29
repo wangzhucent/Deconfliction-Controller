@@ -1,5 +1,5 @@
 # Deconfliction-Controller
-Deconfliction controller for non-holonomic multi-agent UAV system following unicycle model within environment full of obstacles.
+This is a deconfliction controller for non-holonomic multi-agent UAV system following unicycle model within environment full of obstacles.
 
 Files in Deconfliction-Controller/Motion Planning using non-holonomic RRT* to generate available path for UAV agents in environment with obstacles.
 
